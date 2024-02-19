@@ -1,0 +1,41 @@
+
+.skill{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    text-decoration: underline;
+}
+.skill>p{
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    text-decoration: underline;
+}
+.skillss{
+    color: white;
+    display: grid;
+
+    grid-template-columns: auto auto ;
+    gap: 20px 30px;
+    padding: 20px;
+    justify-content:center;
+   
+}
+.skillss >p{
+text-shadow: 2px;
+    border: 1px solid black;
+    border-width: 2px;
+    border-spacing: 20px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+   padding: 10px;
+   
+
+}
+.skillss>p:hover{
+    
+    box-shadow: 0 4px 8px 0 rgba(220, 213, 213, 0.2), 0 6px 20px 0 rgba(220, 213, 213, 0.2);
+    background-color: black;
+    text-decoration: underline;
+}
