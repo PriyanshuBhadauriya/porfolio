@@ -14,7 +14,7 @@ function Project() {
         <span>Shoe Shopping Website</span>
         <p>It is  a clone of Nike Application</p>
         <div className='button1'>
-          <a href='/'><button>Demo</button></a>
+          <a href='https://priyanshubhadauriya.github.io/Shopweb/'><button>Demo</button></a>
           <a href='https://github.com/PriyanshuBhadauriya/Shopweb' target='_blank'><button>Code</button></a>
         </div>
         </div>
